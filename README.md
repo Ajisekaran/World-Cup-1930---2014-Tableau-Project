@@ -1,9 +1,6 @@
 # World-Cup-1930---2014-Tableau-Project
 
 
-
-# World Cup 1930-2014 Data Analysis Project
-
 ## Overview
 This project involves analyzing data related to the World Cup tournaments from 1930 to 2014. Using Tableau and Excel, we aim to visualize various aspects of the World Cup, including team performance, player statistics, match outcomes, and tournament trends. By exploring and visualizing this data, we seek to uncover insights into the history and evolution of the World Cup over the years.
 
